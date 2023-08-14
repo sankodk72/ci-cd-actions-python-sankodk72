@@ -10,9 +10,6 @@ on:
   # *The ability to run the script in manual mode.
   workflow_dispatch:
 
-permissions:
-  contents: read
-
 jobs:
   # * Create a project build.
   build:
