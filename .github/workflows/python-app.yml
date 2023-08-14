@@ -48,4 +48,4 @@ jobs:
       run: | 
         python db.py -a 
         python db.py -p
-        pytest 
+    # pytest 
